@@ -1,0 +1,11 @@
+C:\Users\Daniel Madrigal\Desktop\Proyectos\FormXslt\FormXslt\bin\Debug\docs\archivo.xml
+C:\Users\Daniel Madrigal\Desktop\Proyectos\FormXslt\FormXslt\bin\Debug\docs\transform.xslt
+C:\Users\Daniel Madrigal\Desktop\Proyectos\FormXslt\FormXslt\bin\Debug\FormXslt.exe.config
+C:\Users\Daniel Madrigal\Desktop\Proyectos\FormXslt\FormXslt\bin\Debug\FormXslt.exe
+C:\Users\Daniel Madrigal\Desktop\Proyectos\FormXslt\FormXslt\bin\Debug\FormXslt.pdb
+C:\Users\Daniel Madrigal\Desktop\Proyectos\FormXslt\FormXslt\obj\Debug\FormXslt.Form1.resources
+C:\Users\Daniel Madrigal\Desktop\Proyectos\FormXslt\FormXslt\obj\Debug\FormXslt.Properties.Resources.resources
+C:\Users\Daniel Madrigal\Desktop\Proyectos\FormXslt\FormXslt\obj\Debug\FormXslt.csproj.GenerateResource.cache
+C:\Users\Daniel Madrigal\Desktop\Proyectos\FormXslt\FormXslt\obj\Debug\FormXslt.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Madrigal\Desktop\Proyectos\FormXslt\FormXslt\obj\Debug\FormXslt.exe
+C:\Users\Daniel Madrigal\Desktop\Proyectos\FormXslt\FormXslt\obj\Debug\FormXslt.pdb
